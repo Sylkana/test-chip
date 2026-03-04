@@ -19,7 +19,6 @@ pinout:
   ui[0]: "input a"
   ui[1]: "input b"
   ui[2]: "input c"
-  ui[2]: "input d"
   ui[3]: "input e"
   ui[4]: "input f"
   ui[5]: "input g"
