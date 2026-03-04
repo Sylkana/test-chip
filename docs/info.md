@@ -9,11 +9,11 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Click the switches to see different parts light up.
+Click the switches to see different parts light up.123
 
 ## How to test
 
-Click the switches to see different parts light up.
+Click the switches to see different parts light up.567
 
 
 ## External hardware
